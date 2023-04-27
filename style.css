@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+   }
+   
+   h1 {
+     background-color: #d3d3d3;
+     font-family: Sans-serif;
+     font-size: 40px;
+   }
+   
+   h2 {
+   
+     color: #006400;
+     font-size: 20px;
+   }
+   
+   h3 {
+     font-size: 20px;
+     background-color: #d3d3d3;
+   }
+   
+   #image {
+     height: auto;
+     max-width: 100%;
+     display: block;
+     margin: 0 auto 0 auto;
+   }
+   
+   #img-caption {
+     font-family: monospace;
+     font-size: 17px;
+   }
+   
+   p {
+     font-family: Helvetica;
+     font-size: 17px
+   }
+      
